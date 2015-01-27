@@ -1,0 +1,6 @@
+[submodule "SensorWaGage"]
+	path = SensorWaGage
+	url = https://github.com/rmello4d/SensorWaGage.git
+[submodule "RecyclingContainerProgressBar"]
+	path = RecyclingContainerProgressBar
+	url = https://github.com/rmello4d/RecyclingContainerProgressBar.git
